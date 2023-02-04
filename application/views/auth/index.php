@@ -15,7 +15,7 @@
                         </div>
                         <Form action="" method="post">
                         <div class="form-floating mb-3">
-                            <input type="password" class="form-control" id="floatingInput" name="email">
+                            <input type="email" class="form-control" id="floatingInput" name="email">
                             <label for="email">email</label>
                         </div>
                             <div class="form-floating mb-3">
