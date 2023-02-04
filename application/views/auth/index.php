@@ -14,6 +14,10 @@
                             <h3>Sign In</h3>
                         </div>
                         <Form action="" method="post">
+                        <div class="form-floating mb-3">
+                            <input type="password" class="form-control" id="floatingInput" name="email">
+                            <label for="email">email</label>
+                        </div>
                             <div class="form-floating mb-3">
                             <input type="text" class="form-control" id="floatingInput" name="username">
                             <label for="username">username</label>
